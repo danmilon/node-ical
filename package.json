@@ -1,0 +1,21 @@
+{
+  "author": "Dan Milon <danmilon@gmail.com>",
+  "name": "ical",
+  "description": "iCalendar format parser, soon to be generator",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmilon/node-ical.git"
+  },
+  "keywords": [
+    "ical", "icalendar", "rfc2445"
+  ],
+  "main": "./icaltools.js",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }
+}
