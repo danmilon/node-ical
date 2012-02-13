@@ -10,7 +10,8 @@
   "keywords": [
     "ical", "icalendar", "rfc2445"
   ],
-  "main": "./icaltools.js",
+  "main": "./ical.js",
+  "private": true,
   "dependencies": {},
   "devDependencies": {
   },
