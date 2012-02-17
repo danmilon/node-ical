@@ -10,10 +10,12 @@
   "keywords": [
     "ical", "icalendar", "rfc2445"
   ],
-  "main": "./ical.js",
+  "main": "./",
   "private": true,
   "dependencies": {},
   "devDependencies": {
+    "mocha": "0.12.1",
+    "should": "0.5.1"
   },
   "license": {
     "type": "MIT",
