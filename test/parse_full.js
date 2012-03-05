@@ -16,7 +16,10 @@ describe('Parser', function () {
       parser.write(full_ics)
     })
     it('must parse full.ics streamed', function (done) {
-      parser.on('end', done);
+      parser.on('end', function () {
+        debugger;
+        done()
+      });
       full_ics_stream.pipe(parser)
     })
   })

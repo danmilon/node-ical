@@ -1,1 +1,1 @@
-module.exports = require('./lib/ical');
+module.exports = require('./lib');
