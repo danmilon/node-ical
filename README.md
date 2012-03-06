@@ -1,5 +1,6 @@
 # node-ical
   Provides a streaming Parser for the iCalendar format as specified by [RFC2445](http://www.ietf.org/rfc/rfc2445.txt).
+  This is a work in progress. Contributions appreciated.
 
 ## Quick Start
     var Parser = require('ical').Parser,
